@@ -8,3 +8,4 @@
 #created a script that deletes a file inside a directory.
 #printed a script that deletes a directory inside a directory.
 #printed a script that changes the working directory to previous one.
+#printed a long list of file : hidden in current dir and boot.
