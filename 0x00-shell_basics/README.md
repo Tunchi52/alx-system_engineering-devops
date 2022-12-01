@@ -7,3 +7,4 @@
 #created a script that moves a file from one directory to another.
 #created a script that deletes a file inside a directory.
 #printed a script that deletes a directory inside a directory.
+#printed a script that changes the working directory to previous one.
