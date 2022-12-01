@@ -11,3 +11,4 @@
 #printed a long list of file : hidden in current dir and boot.
 #printed file type
 #created a symbolic link.
+#printed copying using wildcard.
