@@ -7,3 +7,4 @@
 #printed to add execute permission to all
 #printed no permission for owner,group and all for other users
 #printed 753 permission for hello file
+#printed to set hello file permission same as olleh
