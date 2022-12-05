@@ -3,3 +3,4 @@
 #created a script that displays content of a file given.
 #created a script that displays content of mutiple files.
 #created a script that prints the last 10 lines of a file.
+#created a script that prints first 10 lines of a file.
