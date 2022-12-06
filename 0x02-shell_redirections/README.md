@@ -6,3 +6,4 @@
 #created a script that prints first 10 lines of a file.
 #created a script that displays the third line of a file.
 #created a script that displays the output of a command into a file.
+#created a script that duplicates last line of a file 
