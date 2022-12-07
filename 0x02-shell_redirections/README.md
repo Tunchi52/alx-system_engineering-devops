@@ -8,4 +8,5 @@
 #created a script that displays the output of a command into a file.
 #created a script that duplicates last line of a file
 #created a script that deletes regular files; with an extension
-#created a script that counts number of dir. with expansion 
+#created a script that counts number of dir. with expansion
+#created a file that 10 newest file in the current directory 
