@@ -9,4 +9,5 @@
 #created a script that duplicates last line of a file
 #created a script that deletes regular files; with an extension
 #created a script that counts number of dir. with expansion
-#created a file that 10 newest file in the current directory 
+#created a file that 10 newest file in the current directory
+#created a script that takes a list of words as input and print only ones that appear once. 
