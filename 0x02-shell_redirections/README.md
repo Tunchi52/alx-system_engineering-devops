@@ -17,4 +17,5 @@
 #created a script that inverts matching pattern to display non-match
 #created a script that displays all lines of a file staeting with a letter.
 #created a script that replace char A and c from input Z and e.
-#created a script that removes all letter c and C from the input. 
+#created a script that removes all letter c and C from the input.
+#created a script that reverse its  input. 
