@@ -14,4 +14,5 @@
 #created a script that displays lines in a pattern.
 #created a script that displays number of lines that contain a pattern.
 #created a script that displays 3 line after displaying a pattern.
-#created a script that inverts matching pattern to display non-match 
+#created a script that inverts matching pattern to display non-match
+#created a script that displays all lines of a file staeting with a letter. 
