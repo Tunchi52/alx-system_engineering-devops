@@ -13,4 +13,5 @@
 #created a script that takes a list of words as input and print only ones that appear once.
 #created a script that displays lines in a pattern.
 #created a script that displays number of lines that contain a pattern.
-#created a script that displays 3 line after displaying a pattern. 
+#created a script that displays 3 line after displaying a pattern.
+#created a script that inverts matching pattern to display non-match 
