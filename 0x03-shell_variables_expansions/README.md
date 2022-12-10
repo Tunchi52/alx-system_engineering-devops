@@ -6,4 +6,5 @@
 #created a script that prints all local,environment variables and function.
 #created a local variable.
 #exported a local variable to a global variable.
+# created a script that prints result of addition.
 
