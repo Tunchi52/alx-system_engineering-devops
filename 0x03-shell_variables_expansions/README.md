@@ -7,4 +7,5 @@
 #created a local variable.
 #exported a local variable to a global variable.
 # created a script that prints result of addition.
+#printed the result of POWER divided by DIVIDE.
 
