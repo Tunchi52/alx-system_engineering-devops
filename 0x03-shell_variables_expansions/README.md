@@ -6,8 +6,8 @@
 #created a script that prints all local,environment variables and function.
 #created a local variable.
 #exported a local variable to a global variable.
-# created a script that prints result of addition.
+#created a script that prints result of addition.
 #printed the result of POWER divided by DIVIDE.
 #printed BREATH exponent LOVE.
 #created a script that converts a number from base 2 to 10.
-
+#created a script that prints all possible combination of two letters,except oo.
