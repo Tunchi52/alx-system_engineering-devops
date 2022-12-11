@@ -9,4 +9,5 @@
 # created a script that prints result of addition.
 #printed the result of POWER divided by DIVIDE.
 #printed BREATH exponent LOVE.
+#created a script that converts a number from base 2 to 10.
 
