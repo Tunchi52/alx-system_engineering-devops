@@ -11,3 +11,5 @@
 #printed BREATH exponent LOVE.
 #created a script that converts a number from base 2 to 10.
 #created a script that prints all possible combination of two letters,except oo.
+#created a script that prints a number with two decimal placess.
+
